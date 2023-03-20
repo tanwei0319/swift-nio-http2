@@ -32,6 +32,5 @@ Pod::Spec.new do |s|
   s.dependency 'CNIOHTTPParser', '>= 1.25.2', '< 2' 
   s.dependency 'SwiftNIOHTTP1', '>= 1.25.2', '< 2' 
   s.dependency 'SwiftNIOEmbedded', '>= 1.25.2', '< 2' 
-  s.dependency 'Atomics', '>= 1.25.2', '< 2' 
   s.dependency 'SwiftNIOPosix', '>= 1.25.2', '< 2'
 end
