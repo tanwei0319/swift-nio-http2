@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   s.dependency 'CNIOWindows', '>= 1.25.2'
   s.dependency 'SwiftNIOConcurrencyHelpers', '>= 1.25.2'
   s.dependency 'SwiftNIOCore', '>= 1.25.2'
-  s.dependency 'CNIOHTTPParser', '>= 1.25.2'
+  s.dependency 'CNIOHTTPParser', '2.48.0'
   s.dependency '_NIODataStructures', '>= 1.25.2'
   s.dependency 'SwiftNIOHTTP1', '>= 1.25.2'
   s.dependency 'SwiftNIOEmbedded', '>= 1.25.2'
