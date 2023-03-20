@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   s.dependency 'SwiftNIOConcurrencyHelpers', '>= 1.25.2', '< 2' 
   s.dependency 'SwiftNIOHPACK', s.version.to_s 
   s.dependency 'SwiftNIOCore', '>= 1.25.2', '< 2' 
-  s.dependency '_AtomicsShims', '>= 1.25.2', '< 2' 
+  s.dependency 'Swift-Atomics', '>= 1.25.2', '< 2' 
   s.dependency 'CNIOWindows', '>= 1.25.2', '< 2' 
   s.dependency 'SwiftNIO', '>= 1.25.2', '< 2' 
   s.dependency 'CNIODarwin', '>= 1.25.2', '< 2' 
